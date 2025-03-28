@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Barre Chords",
+        "progressRate": 4,
+        "difficulty": 3
+    },
+    {
+        "name": "Hammer Ons",
+        "progressRate": 3,
+        "difficulty": 3
+    },
+    {
+        "name": "Plucking",
+        "progressRate": 3,
+        "difficulty": 3
+    },
+    {
+        "name": "Finger Style",
+        "progressRate": 2,
+        "difficulty": 4
+    },
+    {
+        "name": "Thumb Slap",
+        "progressRate": 1,
+        "difficulty": 5
+    }
+]

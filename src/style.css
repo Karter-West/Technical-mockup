@@ -1,0 +1,20 @@
+body {
+    background-color: #F4EEFF; 
+    font-family: 'Itim', cursive;
+}
+
+.p-button {
+    background-color: #DCD6F7 !important;
+    border-color: #DCD6F7 !important;
+    color: #424874 !important;
+}
+
+h1 {
+    margin-bottom: 25px;
+    font-size: 70px;
+    color: #424874;
+}
+
+div {
+    color: #424874;
+}
